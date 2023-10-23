@@ -2,7 +2,7 @@
 My First Repository
 
 C++ programm that supports working with complex numbers.
-This includes:
+This includes:\n
   -Class Complex
       -constructors, Getters and Setters
   -friend functions
